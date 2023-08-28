@@ -1,12 +1,12 @@
 ## A Hands-on Workshop series in Machine Learning 
 Timing: **2-4 pm PST** on **Fridays** and **Sundays** from **Sept 29** to **Oct 29, 2023** (**7 sessions** in total, **some days are skipped keeping in mind spring breaks**)  
-Where: [Shanahan 3465](https://www.hmc.edu/facilities-maintenance/wp-content/uploads/sites/17/2014/01/shanahan-center-classroom-locations.pdf) or remotely via Zoom (link will be shared when you [register](https://forms.gle/SgEbuExURxd6Vow69))
+Where: TBD
 
 The workshop series is designed with a focus on the practical aspects of machine learning using real-world datasets and the tools in the Python ecosystem and is targeted towards complete beginners familiar with Python. 
 
 You will learn the minimal but most useful tools for exploring datasets using pandas and then be gently introduced to neural networks. You will also learn various architectures of neural networks such as Convolution Neural Networks (CNN), Recurrent Neural Networks (RNN), and transformer-based models (used in recent language models such as chatGPT), and apply them to real-world textual and image datasets.
  
-Please register using [this Google form](https://forms.gle/SgEbuExURxd6Vow69) to save your seat. It is highly recommended to attend the workshop in person as you will be coding in groups and participating in discussions, but there is an option to join remotely via Zoom. The Zoom link and the recordings for each session will be shared with the registered participants. Please have a look at the topics to be covered below. You are free to attend some of the sessions while skipping others if you are already familiar with certain topics.
+Please register using [this Google form](https://forms.gle/smtJSxn9Z6LNTTnD8) to save your seat. It is highly recommended to attend the workshop in person as you will be coding in groups and participating in discussions, but there is an option to join remotely via Zoom. The Zoom link and the recordings for each session will be shared with the registered participants. Please have a look at the topics to be covered below. You are free to attend some of the sessions while skipping others if you are already familiar with certain topics.
 
 The learning material and solutions will be made available in [this Github repository](https://github.com/AashitaK/A-Hands-On-Workshop-In-Machine-Learning) for each session.
 
