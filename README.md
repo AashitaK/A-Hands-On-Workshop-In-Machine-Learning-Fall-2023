@@ -35,38 +35,40 @@ You can run the notebook for this session either at [![Binder](https://mybinder.
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-#### 2. More on `pandas` and Logistic regression (Sunday, Oct 1, 2023)
+#### 2. More on `pandas` and Logistic regression (Friday, Oct 6, 2023)
 * More on `pandas` - Groupby operations
 * Binary classification algorithm: Logistic Regression
 * Underfitting and Overfitting to the training dataset; Model cross-validation 
 
-#### 3. A Gentle Introduction to Neural Networks (Friday, Oct 6, 2023)
+#### 3. A Gentle Introduction to Neural Networks (Friday, Oct 20, 2023)
 * Neural networks: Building the intuition of the architecture and the iterative learning process 
 * An exercise on implementing AND and OR gates using Perceptron by trial-and-error 
 * Multi-Layer Perception: Forward and Backward propagation
-* One hot encoding for categorical features
+* One-hot encoding for categorical features
 
-#### 4. Fine-tuning Neural Networks (Sunday, Oct 8, 2023)
+#### 4. Fine-tuning Neural Networks (Friday, Oct 27, 2023)
 * Vanishing gradients and exploding gradients in deep networks
 * Activation functions 
 * Weight Initialization
 * Regularization - L1 and L2, Dropout
 * Tuning other hyper-parameters such as learning rate, number of epochs, etc.
 * Exploring the [TensorFlow Playground](https://playground.tensorflow.org/)
-* Natural language processing (NLP) concepts: Bag Of Words (BOW) model, TF-IDF vectorizor etc.
+* Natural language processing (NLP) concepts: Bag Of Words (BOW) model, TF-IDF vectorizor, etc.
 * Application of the above concepts on [IMDb dataset](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) for training a neural network for sentiment analysis
 
-#### 5. Convolution Neural Networks (Friday, Oct 20, 2023)
+#### 5. Convolution Neural Networks (Friday, Nov 3, 2023)
 * Image preprocessing for neural networks
 * Feature extraction using convolution filters
 * Convolution Neural Network architecture (CNN)
 * Training a CNN model on CIFAR-10 dataset
 
-#### 6. Recurrent Neural Networks (Friday, Oct 27, 2023)
+#### 6. Recurrent Neural Networks (Friday, Nov 10, 2023)
 * Recurrent Neural Networks (RNN)
-
-#### 7. Transformer models (Sunday, Oct 29, 2023)
-* Transformer model architecture (used in models such as chatGPT)
 * Mini-project: Building a spam detector using dataset from [Kaggle](https://www.kaggle.com)
+
+
+#### 7. Transformer models (Friday, Nov 17, 2023)
+* Transformer model architecture (used in models such as chatGPT)
+* Mini-project: Building an AI chatbot for HMC Helpdesk
 
 This page will be updated frequently with more information.
