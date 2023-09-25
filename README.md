@@ -1,6 +1,6 @@
 ## A Hands-on Workshop series in Machine Learning 
 Timing: **2:30-4:30 pm PST** on **Fridays** from **Sept 29** to **Nov 17, 2023** (**7 sessions** in total, **the Friday before spring break is skipped**)  
-Where: TBD
+Where: 3460 SkyCube in Shanahan Center or remotely via Zoom (link will be shared when you [register](https://forms.gle/smtJSxn9Z6LNTTnD8))
 
 The workshop series is designed with a focus on the practical aspects of machine learning using real-world datasets and the tools in the Python ecosystem and is targeted towards complete beginners familiar with Python. 
 
@@ -8,7 +8,7 @@ You will learn the minimal but most useful tools for exploring datasets using p
  
 Please register using [this Google form](https://forms.gle/smtJSxn9Z6LNTTnD8) to save your seat. It is highly recommended to attend the workshop in person as you will be coding in groups and participating in discussions, but there is an option to join remotely via Zoom. The Zoom link and the recordings for each session will be shared with the registered participants. Please have a look at the topics to be covered below. You are free to attend some of the sessions while skipping others if you are already familiar with certain topics.
 
-The learning material and solutions will be made available in [this Github repository](https://github.com/AashitaK/A-Hands-On-Workshop-In-Machine-Learning) for each session.
+The learning material and solutions will be made available in [this Github repository](https://github.com/AashitaK/A-Hands-On-Workshop-In-Machine-Learning-Fall-2023) for each session.
 
 #### Pre-requisites:
 1. Some familiarity with Python
