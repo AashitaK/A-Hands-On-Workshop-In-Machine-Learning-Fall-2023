@@ -1,5 +1,5 @@
 ## A Hands-on Workshop series in Machine Learning 
-Timing: **2-4 pm PST** on **Fridays** from **Sept 29** to **Nov 17, 2023** (**7 sessions** in total, **the Friday before spring break is skipped**)  
+Timing: **2:30-4:30 pm PST** on **Fridays** from **Sept 29** to **Nov 17, 2023** (**7 sessions** in total, **the Friday before spring break is skipped**)  
 Where: TBD
 
 The workshop series is designed with a focus on the practical aspects of machine learning using real-world datasets and the tools in the Python ecosystem and is targeted towards complete beginners familiar with Python. 
