@@ -1,5 +1,5 @@
 ## A Hands-on Workshop series in Machine Learning 
-Timing: **2-4 pm PST** on **Fridays** from **Sept 29** to **Nov 10, 2023** (**7 sessions** in total, **the Friday before spring break is skipped**)  
+Timing: **2-4 pm PST** on **Fridays** from **Sept 29** to **Nov 17, 2023** (**7 sessions** in total, **the Friday before spring break is skipped**)  
 Where: TBD
 
 The workshop series is designed with a focus on the practical aspects of machine learning using real-world datasets and the tools in the Python ecosystem and is targeted towards complete beginners familiar with Python. 
@@ -65,6 +65,12 @@ You can run the notebook for this session either at [![Binder](https://mybinder.
 #### 6. Recurrent Neural Networks (Friday, Nov 10, 2023)
 * Recurrent Neural Networks (RNN)
 * Mini-project: Building a spam detector using dataset from [Kaggle](https://www.kaggle.com)
+
+#### 7. Transformers (Friday, Nov 10, 2023)
+* Transformer architecture
+* BERT
+* GPT
+* Mini-project: Building a AI chatbot for HMC Helpdesk
 
 
 #### 7. Transformer models (Friday, Nov 17, 2023)
