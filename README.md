@@ -10,6 +10,9 @@ Please register using [this Google form](https://forms.gle/smtJSxn9Z6LNTTnD8) 
 
 The learning material and solutions will be made available in [this Github repository](https://github.com/AashitaK/A-Hands-On-Workshop-In-Machine-Learning-Fall-2023) for each session.
 
+**The sessions will be recorded on Zoom and the recordings will be shared with registered participants, so if you cannot attend all the sessions but still want to participate in some capacity, please make sure to register.**
+
+
 #### Pre-requisites:
 1. Some familiarity with Python
 2. Basics of Probability and Statistics
