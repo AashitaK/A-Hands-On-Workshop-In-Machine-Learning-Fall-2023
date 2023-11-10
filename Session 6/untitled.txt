@@ -1,3 +1,1 @@
-* Add autoencoders exercise as a way to reduce the input dimension
-* Add more info about attention mechanism
-* Add wordle problem?
+
